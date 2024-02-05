@@ -72,8 +72,3 @@ li{
 ul {
   padding: 0;
 }
-
-@media only screen and (min-width:1300px)
-{
- .right-sidebar { display:inline-block; margin-left:10px; }
-}
